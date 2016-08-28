@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Jogo da Memória</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_reiniciar">Reiniciar</string>
+    <string name="progress">Progresso: </string>
+    <string name="congratulations">Parabéns!</string>
+    <string name="final_mensage">Você tem uma boa memória.</string>
+
+    <!-- Tela Dados Jogador -->
+    <string name="label_name">Nome: </string>
+    <string name="label_email">Email: </string>
+    <string name="label_points">Número de Jogadas: </string>
+    <string name="button_add_register">Cadastrar</string>
+    <string name="message_save">Registro salvo com sucesso.</string>
+    <string name="message_unsave">Erro ao registrar o usuário.</string>
+    <string name="message_name_empty">Por favor, insira seu nome para prosseguir.</string>
+
+    <!-- Tela Inicial -->
+    <string name="initial_message">Jogo da Memória!!!</string>
+    <string name="label_new_game">Novo Jogo</string>
+    <string name="label_view_records">Ranking</string>
+    <string name="title_activity_cadastrar_recorde">CadastrarRecordeActivity</string>
+
+    <!-- Tela Records -->
+    <string name="text_records">Recordes cadastrados</string>
+    <string name="text_no_records">Não há recordes cadastrados</string>
+    <string name="erase_list">Limpar</string>
+    <string name="erase_register">Registro apagado com sucesso</string>
+</resources>
